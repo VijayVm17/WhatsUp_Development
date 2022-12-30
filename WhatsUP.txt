@@ -9,3 +9,4 @@ Author : VijayVm17
 5.)Hiding last seen
 6.)Adding the audio call feature
 7.)Adding the video call featur
+8.)Adding the emoji stickers so that user can chat with friends using emojis
